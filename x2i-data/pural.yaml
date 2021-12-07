@@ -1,6 +1,8 @@
 ---
-prefix: 'u'
-format: '\*$1'
+---
+name: Uralicist notation
+help: 'https://github.com/Brewer021/conniebot/blob/master/x2i-data/UPA%20conversion%20tablecsv'
+prefix: u
 replacers:
   - - '+>i'
     - ᶦ
